@@ -79,6 +79,3 @@ O script espera que o seu diretório de widgets (`WidgetsDir`) siga a estrutura 
 
 Distribuído sob a licença MIT. Sinta-se à vontade para fazer um *fork* e adaptar para a realidade dos seus projetos!
 
-Você gostaria que eu inclua um bloco ensinando como contornar as políticas de execução do Windows caso o PowerShell bloqueie a execução do script (`Set-ExecutionPolicy`)?
-
-`
